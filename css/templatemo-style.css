@@ -81,7 +81,9 @@ h1,h2,h3,h4,h5
   transition: 0.5s;
   -webkit-transform-origin-x: 50%;
 }
-
+h5 a, h5 a:hover{
+    color: #FCC907;
+}
 .rotating.flip {
   position: relative;
 }
